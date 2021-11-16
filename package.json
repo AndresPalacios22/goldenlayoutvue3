@@ -12,7 +12,9 @@
     "core-js": "^3.6.5",
     "vue": "^3.0.0",
     "vue-router": "^4.0.0-0",
-    "vuex": "^4.0.0-0"
+    "vuex": "^4.0.0-0",
+    "vue-class-component": "^7.2.6",
+    "golden-layout": "^2.4.0"
   },
   "devDependencies": {
     "@types/chai": "^4.2.11",
